@@ -11,6 +11,8 @@
         <property name="hibernate.show_sql">true</property>
 
         <mapping class="com.vektorel.repository.entity.Musteri"></mapping>
+        <mapping class="com.vektorel.repository.entity.Satis"></mapping>
+
 
 
     </session-factory>
